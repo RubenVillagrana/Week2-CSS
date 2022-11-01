@@ -61,6 +61,11 @@ p  {
 
 
 .album-art {
+    border: 2px;
+    margin-right: 2em;
+    margin-top: 2em;
+    padding: 1em;
+    width: 96px;
 
 }
 
@@ -73,6 +78,7 @@ p  {
 }
 
 .record-label {
+    color: red;
 
 }
 
@@ -81,11 +87,12 @@ p  {
 }
 
 #about-photo {
-    background-image: url(images/spinal-tap.jpg);
-    background-repeat: no-repeat, no-repeat;
-    border-style: solid;
-    border: 1px;
-    border-color: red;
+    border: double red;
+    margin-top: 1em;
+    margin-right: 1em;
+    padding: 1em;
+    width: 240px;
+    
 
 }
 
